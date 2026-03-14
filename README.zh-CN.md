@@ -23,8 +23,6 @@ GoogleTest 已有的 `TestSuite.TestName` 结构里。
 - `SHE_GTESTX_TEST(...)` 用于普通测试
 - `SHE_GTESTX_TEST_F(fixture, ...)` 用于基于 fixture 的测试
 
-## 使用方式
-
 ## 如何接入你的项目
 
 `she_gtestx` 是 header-only 库，但它不是“零依赖头文件”。

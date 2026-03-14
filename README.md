@@ -2,7 +2,7 @@
 
 `she_gtestx` is a small C++17 header-first extension layer for GoogleTest.
 
-Chinese documentation: [README.zh-CN.md](/home/shecannotsee/Desktop/projects/she_gtestx/README.zh-CN.md)
+Chinese documentation: [README.zh-CN.md](./README.zh-CN.md)
 
 The initial scaffold keeps GoogleTest untouched and flattens extra logical test
 levels into the names GoogleTest already understands.
